@@ -32,7 +32,7 @@ Projects:
 
 Labs:
 
-* Lab 1
+* Lab 1 [https://rosejc75.github.io/cit281-lab1/](https://rosejc75.github.io/cit281-lab1/)
   * Installed required software tools (VS Code, GitHub, Postman, etc)
   * Keyboard shortcuts
 
