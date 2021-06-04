@@ -42,7 +42,7 @@ Labs:
   * Cloned repos
 
 
-* Lab 3
+* Lab 3 [https://rosejc75.github.io/cit281-lab3/](https://rosejc75.github.io/cit281-lab3/)
   * Practice refactoring JS Code
   * Worked with normal functions to convert them into arrow function expressions
   * Edited unfinished code
