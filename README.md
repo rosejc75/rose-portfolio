@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+Rosses CIT281 Portfolio
 
-You can use the [editor on GitHub](https://github.com/rosejc75/rose-portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Projects:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Project 1
+  * Worked in the CLI and used commands to create a folder tree, worked in Node.js and VS Code.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Project 2
+  * Used project 1 to practice refactoring and and CLI to commit changes.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+* Project 3
+  * Worked with fastify and server responses.
+  * Created a code module that calculates the total value of coin objects
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+* Project 4
+  * Created and executed a node.js REST API
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+* Project 5
+  * Made a monster game
+  * Practiced using the constructor method to accept an object and used deconstructor method to extract parameter variables and default object values
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Project 6
+  * Coded 4 different classes: Shape, rectangle, square, triangle
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosejc75/rose-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Project 7
+  * Used GitHub to create a portfolio for all CIT281 labs and projects
 
-### Support or Contact
+Labs:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Lab 1
+  * Installed required software tools (VS Code, GitHub, Postman, etc)
+  * Keyboard shortcuts
+
+
+* Lab 2
+  * Worked in the terminal and learned different CLI commands
+  * Cloned repos
+
+
+* Lab 3
+  * Practice refactoring JS Code
+  * Worked with normal functions to convert them into arrow function expressions
+  * Edited unfinished code
+
+
+* Lab 4
+  * Added fastify code module to pre written code to get it to run
+  * Worked in terminal to commit changes
+
+
+* Lab 5
+  * Worked in postman and REST API
+
+
+* Lab 6 
+  * Created a digital libaray by creating a book class and library class
+  * Created a way to add books
+
+
+* Lab 7
+  * Created my own GitHub organization
+  * Created GitHub repo and cloned it to my local computer
+  * Created a lab file and pushed changes to GitHub
+
+
+* Lab 8
+  * Created lab file and iniilaized Node.js folder
+  * Installed node fetch package
+  * Added fastify and required statements
+
+
+* Lab 9
+  * Created a release based workflow on GitHub 
+
+
+
+
+
+
