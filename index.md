@@ -27,7 +27,7 @@ Projects:
   * Coded 4 different classes: Shape, rectangle, square, triangle
 
 
-* Project 7
+* Project 7 [https://rosejc75.github.io/cit281-p7/](https://rosejc75.github.io/cit281-p7/)
   * Used GitHub to create a portfolio for all CIT281 labs and projects
 
 Labs:
